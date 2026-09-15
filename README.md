@@ -3,10 +3,7 @@
 ## Course Information
 
 **Course Title:** Web Application Development - PHP & MySQL  
-**Department:** Computer Application  
 **Faculty:** Computer & Information Technology  
-**Year:** 2026  
-**Semester:** I  
 
 **Prerequisites:**
 - HTML & CSS
@@ -14,8 +11,6 @@
 - JavaScript
 
 **Instructor(s):**
-- Abdisalam Yusuf Abdi (Jarane)
-- Bashir Abdinur Ahmed
 - Yahye Ali Isse
 ---
 
