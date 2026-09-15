@@ -3,7 +3,6 @@
 ## Course Information
 
 **Course Title:** Web Application Development - PHP & MySQL  
-**Course Code:** CA422  
 **Department:** Computer Application  
 **Faculty:** Computer & Information Technology  
 **Year:** 2026  
